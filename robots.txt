@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://open-source.ims-network.net/sitemap.xml

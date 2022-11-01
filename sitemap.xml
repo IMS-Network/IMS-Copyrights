@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://open-source.ims-network.net/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://open-source.ims-network.net/</loc>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/ata-char-creator/</loc>
+<lastmod>2022-10-02T13:27:48+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\28/ATA-Char-Creator.jpg</image:loc>
+<image:title><![CDATA[ATA Char Creator Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/bit-clothing-shop/</loc>
+<lastmod>2022-10-02T12:34:06+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\22/Clothing-Shop.png</image:loc>
+<image:title><![CDATA[BIT Clothing Shop Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/bit-dealership/</loc>
+<lastmod>2022-10-02T12:02:54+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\18/Dealership.jpg</image:loc>
+<image:title><![CDATA[BIT Dealership Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/bit-fuel/</loc>
+<lastmod>2022-10-02T12:09:51+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\20/Fuel.jpg</image:loc>
+<image:title><![CDATA[BIT Fuel Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/bit-police-mdt/</loc>
+<lastmod>2022-10-02T12:16:06+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\21/PoliceMDT.jpg</image:loc>
+<image:title><![CDATA[BIT Police MDT Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/bit-spectate/</loc>
+<lastmod>2022-10-02T12:06:18+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\19/Spectate.jpg</image:loc>
+<image:title><![CDATA[Bit Spectate Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/bit-weaponshop/</loc>
+<lastmod>2022-10-02T12:02:36+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\17/bit-Weaponshop.png</image:loc>
+<image:title><![CDATA[bit Weaponshop]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/buty-airplane/</loc>
+<lastmod>2022-10-02T10:42:10+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\15/Buty-Airplane.png</image:loc>
+<image:title><![CDATA[Buty Airplane Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/buty-bus/</loc>
+<lastmod>2022-10-02T10:45:34+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\16/Buty-Bus.png</image:loc>
+<image:title><![CDATA[Buty-Bus Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/buty-trucker/</loc>
+<lastmod>2022-10-02T10:38:17+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\14/Buty-Trucker.png</image:loc>
+<image:title><![CDATA[Buty Trucker logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/dpclothing/</loc>
+<lastmod>2022-10-02T10:23:03+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\13/maxresdefault.jpg</image:loc>
+<image:title><![CDATA[dpClothing logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/esx-legacy/</loc>
+<lastmod>2022-10-02T08:40:13+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\1/esx.jfif</image:loc>
+<image:title><![CDATA[ESX Framework Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/esx-npwd/</loc>
+<lastmod>2022-10-02T08:58:24+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\10/overextended-logo.png</image:loc>
+<image:title><![CDATA[overextended logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/npwd/</loc>
+<lastmod>2022-10-02T08:38:57+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\5/NPWD.png</image:loc>
+<image:title><![CDATA[New-Phone-Who-Dis (NPWD) Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/ox-inventory/</loc>
+<lastmod>2022-10-02T08:39:33+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\4/overextended-logo-2.png</image:loc>
+<image:title><![CDATA[overextended logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/ox-lib/</loc>
+<lastmod>2022-10-02T08:46:32+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\8/overextended-logo.png</image:loc>
+<image:title><![CDATA[overextended logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/oxmysql/</loc>
+<lastmod>2022-10-02T08:39:26+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\3/overextended-logo.png</image:loc>
+<image:title><![CDATA[overextended logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/pefcl/</loc>
+<lastmod>2022-10-02T09:05:39+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\11/project-error.png</image:loc>
+<image:title><![CDATA[project-error logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/pefcl-esx/</loc>
+<lastmod>2022-10-02T10:07:49+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\12/project-error.png</image:loc>
+<image:title><![CDATA[project-error logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/pma-voice/</loc>
+<lastmod>2022-10-02T08:41:37+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\7/PMA-voice.png</image:loc>
+<image:title><![CDATA[PMA Voice Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/qtarget/</loc>
+<lastmod>2022-10-02T08:51:13+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\9/overextended-logo.png</image:loc>
+<image:title><![CDATA[overextended logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/screenshot-basic/</loc>
+<lastmod>2022-10-02T07:35:12+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\6/FiveM-Logo.png</image:loc>
+<image:title><![CDATA[Screenshot Basic Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/tags/bit/</loc>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/tags/buty/</loc>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/tags/codem/</loc>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/tags/fivem/</loc>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/tags/jobs/</loc>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/tags/overextended/</loc>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/tags/project-error/</loc>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/tags/script-dependency/</loc>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/tags/scripts/</loc>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/venice-chat/</loc>
+<lastmod>2022-10-02T12:58:04+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\26/Venice-Chat.png</image:loc>
+<image:title><![CDATA[Venice Chat Logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\26/gallery/Venice-Chat1-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Chat Showcase Photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\26/gallery/Venice-Chat3-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Chat Showcase Photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\26/gallery/Venice-Chat2-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Chat Showcase Photo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/venice-hud/</loc>
+<lastmod>2022-10-02T12:45:47+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\23/Venice-HUD.png</image:loc>
+<image:title><![CDATA[Venice HUD Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/venice-me-do/</loc>
+<lastmod>2022-10-02T12:54:34+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\25/Venice-Me-Do.png</image:loc>
+<image:title><![CDATA[Venice Me Do Logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\25/gallery/Venice-Me-Do3-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Me Do Showcase Photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\25/gallery/Venice-Me-Do2-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Me Do Showcase Photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\25/gallery/Venice-Me-Do1-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Me Do Showcase Photo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/venice-notify/</loc>
+<lastmod>2022-10-02T12:50:44+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\24/Venice-Notify.png</image:loc>
+<image:title><![CDATA[Venice Notify Logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\24/gallery/Venice-Notify3-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Notify Showcase Image ]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\24/gallery/Venice-Notify2-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Notify Showcase Image ]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\24/gallery/Venice-Notify1-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Notify Showcase Image ]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/venice-report-system/</loc>
+<lastmod>2022-10-02T13:13:12+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\27/Venice-Report-System.jpg</image:loc>
+<image:title><![CDATA[Venice Report System Logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\27/gallery/Venice-Report-System9-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Report System Showcase Photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\27/gallery/Venice-Report-System8-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Report System Showcase Photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\27/gallery/Venice-Report-System7-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Report System Showcase Photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\27/gallery/Venice-Report-System6-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Report System Showcase Photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\27/gallery/Venice-Report-System5-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Report System Showcase Photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\27/gallery/Venice-Report-System4-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Report System Showcase Photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\27/gallery/Venice-Report-System3-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Report System Showcase Photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\27/gallery/Venice-Report-System2-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Report System Showcase Photo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\27/gallery/Venice-Report-System1-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Venice Report System Showcase Photo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://open-source.ims-network.net/vmenu/</loc>
+<lastmod>2022-10-02T08:40:02+03:00</lastmod>
+<image:image>
+<image:loc>https://open-source.ims-network.net/media\posts\2/vMenu.png</image:loc>
+<image:title><![CDATA[Vmenu logo ]]></image:title>
+</image:image>
+</url>
+</urlset>
